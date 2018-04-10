@@ -10,3 +10,5 @@ ZCZC W03 - Selesai!
 ZCZC W04 selese
 
 ZCZC W05 selese
+
+ZCZC W06 selese
